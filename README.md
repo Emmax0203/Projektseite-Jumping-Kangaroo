@@ -1,5 +1,20 @@
 # Projektseite-Jumping-Kangaroo
 
+## Inhaltsverzeichnis
+
+[1. Einleitung](#Einleitung)
+
+[2. Spielidee](#Spielidee)
+
+[3. Screens](#Screens)
+
+[4. Actor](#Actor)
+
+[5. Funktionen](#Funktionen)
+
+[6. Spielende](#Spielende)
+
+[7. Schlusswort](#Schlusswort)
 
 ## Einleitung<a name="Einleitung"></a>
 Im zweiten Halbjahr des 12. Jahrgangs haben wir im Rahmen des wöchentlichen Informatikunterrichts innerhalb von ungefähr drei Monaten das jump and run Spiel "Jumping Kangaroo" programmiert. Dazu haben wir das Programm Greenfoot Javascript verwendet, da diese für Fortgeschrittene mit etwas Vorkenntnissen im Programmieren geeignet schien, die wir bereits im ersten Halbjahr erlangt haben. Dieses Programm arbeitet mit komplexeren Ausdrücken und nur Text. Demnach bot es eine Möglichkeit zur Steigerung für unsere Informatikkenntnisse. Nachdem wir uns die Einführungsvideos zu Greenfoot ausführlich angesehen haben, kamen wir mit den grundlegenden Prinzipien zurecht und konnten uns so das restliche Können aneignen.
