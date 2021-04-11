@@ -14,8 +14,15 @@ Für die Gestaltung der Screens haben wir das Programm "Paint" verwendet, um uns
 ## actor<a name="actor"></a>
 Bei Greenfoot arbeitet man vor allem mit sogenannten "actorn". Diese können verschiedene Funktionen besitzen. Im Spiel "Jumping Kangaroo" gibt es vier verschiedene "actor", nämlich: kangaroo, platform, cherry und victory.
 Das Känguru ist die Hauptfigur des Spiels und sammelt die Kirschen ein. Hierzu kann es sich nach links und rechts bewegen, sowie springen und nach unten fallen. 
+
 Die Platformen bilden die Sprung- und Landeflächen für das Känguru und sorgen dafür, dass dieses zu den Kirschen gelangen kann. Des Weiteren kann man nicht von unten durch diese durchspringen, da sie aus einem festen Material sind. Man kann nur von oben auf den Platformen landen und von diesen wieder abspringen. 
+
 Die Kirschen sind die Objekte, welche eingesammelt werden müssen und Punkte bringen. Sie sorgen dafür, dass man das Spiel gewinnen kann, da sie die Variable "eatenCherries" verändern und so die Punktzahl erhöhen.
+
 Victory bildet den Endscreen, wenn jemand alle Kirschen eingesammelt und somit das Spiel gewonnnen hat. 
 
 ## Funktionen<a name="Funktionen"></a>
+Startscreen: Der Startscreen hat nur eine if-Funktion, durch die beim Drücken der Spacetaste der Startscreen verschwindet und der Screen myworld geöffnet wird.
+
+MyWorld: Wir haben eine Variable "eatenCherries", die den Score festlegt, sowie ein Textfeld, das diese Variable anzeigt. Außerdem haben wir eine "Prepare-Funktion"(public void prepare), welche die Ausgangslage unserer Welt gestlegt. In dieser Funktion ist die Anzahl, Platzierung und Art aller Objekt in dieser Welt, festgelgt. Das sind bei uns sieben Kirschen, sieben Platformen und ein Känguru. Hinzu kommt eine Funktion für das Ende des Spiels (public void act), in der geschrieben steht, dass wenn der Wert der Varibale "eatenCherries" höher als sechs ist, der Victoryscreen abgerufen wird. 
+
