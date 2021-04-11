@@ -32,9 +32,7 @@ Das Känguru ist die Hauptfigur des Spiels und sammelt die Kirschen ein. Hierzu 
 
 Die Platformen bilden die Sprung- und Landeflächen für das Känguru und sorgen dafür, dass dieses zu den Kirschen gelangen kann. Des Weiteren kann man nicht von unten durch diese durchspringen, da sie aus einem festen Material sind. Man kann nur von oben auf den Platformen landen und von diesen wieder abspringen. 
 
-Die Kirschen sind die Objekte, welche eingesammelt werden müssen und Punkte bringen. Sie sorgen dafür, dass man das Spiel gewinnen kann, da sie die Variable "eatenCherries" verändern und so die Punktzahl erhöhen.
-
-Victory bildet den Endscreen, wenn jemand alle Kirschen eingesammelt und somit das Spiel gewonnnen hat. 
+Die Kirschen sind die Objekte, welche eingesammelt werden müssen und Punkte bringen. Sie sorgen dafür, dass man das Spiel gewinnen kann, da sie die Variable "eatenCherries" verändern und so die Punktzahl erhöhen. 
 
 ## Funktionen<a name="Funktionen"></a>
 Startscreen: Der Startscreen hat nur eine if-Funktion, durch die beim Drücken der Spacetaste der Startscreen verschwindet und der Screen myworld geöffnet wird.
