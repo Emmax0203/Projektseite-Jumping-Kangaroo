@@ -7,3 +7,15 @@ Da wir dafür lediglich drei Monate Zeit hatten, sind wir mit dem Ergebnis zufri
 
 ## Spielidee<a name="Spielidee"></a>
 "Jumping Kangaroo" ist ein jump and run Spiel, bei dem es darum geht Kirschen einzusammeln und so den Sieg zu erlangen. Dabei gibt es einen Mindestscore von sieben Kirschen, welchen man erreichen muss, um das Spiel zu gewinnen. Die Kirschen kann man einsammeln, indem man von Plattform zu Plattform springt und auf dem Weg alle Kirschen mitnimmt. Pro gesammelter Kirsche kriegt man einen Pluspunkt, welcher im Score angezeigt wird. 
+
+## Screens<a name="Screens"></a>
+Für die Gestaltung der Screens haben wir das Programm "Paint" verwendet, um unsere eigenen Designs zu erstellen und in Greenfoot zu verwenden. Mithilfe der Spacetaste kann man aufgrund eines Befehls im Startscreen zum tatsächlichen Screen und Spiel gelangen. Hat man am Ende des Spiels alle Kirschen eingesammelt und somit den Mindestscore erreicht, wird der Gewinnscreen aufgerufen und angezeigt.
+
+## actor<a name="actor"></a>
+Bei Greenfoot arbeitet man vor allem mit sogenannten "actorn". Diese können verschiedene Funktionen besitzen. Im Spiel "Jumping Kangaroo" gibt es vier verschiedene "actor", nämlich: kangaroo, platform, cherry und victory.
+Das Känguru ist die Hauptfigur des Spiels und sammelt die Kirschen ein. Hierzu kann es sich nach links und rechts bewegen, sowie springen und nach unten fallen. 
+Die Platformen bilden die Sprung- und Landeflächen für das Känguru und sorgen dafür, dass dieses zu den Kirschen gelangen kann. Des Weiteren kann man nicht von unten durch diese durchspringen, da sie aus einem festen Material sind. Man kann nur von oben auf den Platformen landen und von diesen wieder abspringen. 
+Die Kirschen sind die Objekte, welche eingesammelt werden müssen und Punkte bringen. Sie sorgen dafür, dass man das Spiel gewinnen kann, da sie die Variable "eatenCherries" verändern und so die Punktzahl erhöhen.
+Victory bildet den Endscreen, wenn jemand alle Kirschen eingesammelt und somit das Spiel gewonnnen hat. 
+
+## Funktionen<a name="Funktionen"></a>
