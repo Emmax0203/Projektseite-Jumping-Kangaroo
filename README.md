@@ -32,3 +32,4 @@ Kangaroo: Zum Bewegen des Kängurus nach links und rechts bedarf es einer Funkti
 Ziel des Spiels ist es, alle Kirschen einzusammeln. Daher wird das Ende des Spiels durch die Variable "eatenCherries" bestimmt; ist diese nämlich höher als sechs, hat man alle sieben Kirschen gesammelt, das Spiel gewonnen und der Endscreen erscheint.
 
 ## Schlusswort<a name="Schlusswort"></a>
+Gerade in anbetracht der kurzen Zeit und der eigenständigen Arbeit im Homeschooling, sind wir froh, unsere Ideen umgesetzt zu haben. Dabei haben wir uns anhand von YouTubevideos einen roten Faden geschaffen und durch fleißiges Probieren auch die letzten Probleme beheben können. Das Projekt war eine tolle Möglichkeit unsere bisherigen Informatikkenntnisse, besonders in Bezug auf Variablen und if-Funktionen, weiter zu bilden und nun auch eigenständig ohne Bausteine programmieren können. 
